@@ -1,0 +1,10 @@
+:focus {
+  outline: 4px solid #ffcc00;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+button, a[tabindex], .focusable {
+  -webkit-tap-highlight-color: transparent;
+  font-size: 22px;
+  padding: 18px;
+}
